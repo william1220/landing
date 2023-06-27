@@ -20,7 +20,7 @@
 
 ![Screen Shot](images/screenshot2.png)
 
-This a basic web page made from basic HTML and CSS. This is based the Le Wagon Bootcamp Challenges . 
+This a basic web page made from basic HTML and CSS. This is one of the Le Wagon Bootcamp Challenges during the bootcamp. 
 
 ## Built With
 
