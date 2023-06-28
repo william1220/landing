@@ -31,7 +31,7 @@ The Web Page is made of HTML and CSS.
 <a href="https://github.com/william1220"><img src="https://avatars.githubusercontent.com/u/23138486?v=4" title="William Dela Rosa" width="80" height="80"></a>
 
 [//]: contributor-faces
-* **william1220** - *Graduate of Le Wagon Bootcamp* - [william1220](https://github.com/william1220/) - *I created It*
+
 ## Acknowledgements
 
 * [Le Wagon ](https://www.lewagon.com/)
